@@ -1,8 +1,12 @@
 ## VPC
-### tools
+### Tools
 https://www.ipaddressguide.com/cidr
+### Ref
+State: Stateful or Stateless
 
-##
+https://medium.com/awesome-cloud/aws-difference-between-security-groups-and-network-acls-adc632ea29ae
+
+## Architecture solutions
 https://aws.amazon.com/architecture/
 
 https://aws.amazon.com/solutions/
