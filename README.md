@@ -16,13 +16,11 @@ https://github.com/aws-samples
 ## Video reference
 https://youtu.be/Ia-UEYYR44s
 
-https://www.bilibili.com/s/video/BV1jK411W7TD
-
-https://www.bilibili.com/video/BV1Af4y127t8/
-
-
 ## AWS ECS
 https://ecsworkshop.com/
 
 ## AWS EKS
 https://www.eksworkshop.com/
+
+## Amazon EKS Anywhere
+https://anywhere.eks.amazonaws.com/
