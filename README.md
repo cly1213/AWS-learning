@@ -13,9 +13,6 @@ https://aws.amazon.com/solutions/
 
 https://github.com/aws-samples
 
-## Video reference
-https://youtu.be/Ia-UEYYR44s
-
 ## AWS ECS
 https://ecsworkshop.com/
 
