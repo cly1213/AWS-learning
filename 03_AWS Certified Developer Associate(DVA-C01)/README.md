@@ -2,11 +2,14 @@
 ## Video reference
 https://www.youtube.com/watch?v=RrKRN9zRBWs&t=4083s&ab_channel=freeCodeCamp.org
 
-## code
+## Code
 https://github.com/ExamProCo/TheFreeAWSDeveloperAssociate
 
-## IAM & Advanced IAM
-## EC2 & NAT
-## ELB & Auto Scaling
-## VPC
+## Free questions
+https://www.examtopics.com/exams/amazon/aws-certified-developer-associate/
+
+### IAM & Advanced IAM
+### EC2 & NAT
+### ELB & Auto Scaling
+### VPC
  
