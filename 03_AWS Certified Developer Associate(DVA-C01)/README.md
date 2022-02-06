@@ -8,8 +8,12 @@ https://github.com/ExamProCo/TheFreeAWSDeveloperAssociate
 ## Free questions
 https://www.examtopics.com/exams/amazon/aws-certified-developer-associate/
 
-### IAM & Advanced IAM
-### EC2 & NAT
-### ELB & Auto Scaling
-### VPC
- 
+#### IAM & Advanced IAM
+#### EC2 & NAT
+#### ELB & Auto Scaling
+#### VPC 
+- Security Groups
+- Network ACLs(Access Control Lists)
+- Endpoint Services
+
+### Route 53 
