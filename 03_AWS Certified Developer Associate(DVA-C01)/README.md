@@ -16,4 +16,9 @@ https://www.examtopics.com/exams/amazon/aws-certified-developer-associate/
 - Network ACLs(Access Control Lists)
 - Endpoint Services
 
-### Route 53 
+#### Route 53 & CloudFront
+#### AWS CLI, AWS SDK, Other tools
+#### AWS CloudFormation
+Similar to Terraform
+
+ 
