@@ -21,4 +21,15 @@ https://www.examtopics.com/exams/amazon/aws-certified-developer-associate/
 #### CloudFormation
 Similar to Terraform
 
-#### Elastic Beanstalk 
+#### Elastic Beanstalk
+### Lambda
+#### ECS
+#### AWS Developer Tools: CI/CD
+- AWS CodePipeline
+  - CODE: github
+  - BUILD & TEST: Jenkins
+  - DEPLOY: ansible
+
+#### RDS & ElasticCache
+### DynamoDB
+ 
