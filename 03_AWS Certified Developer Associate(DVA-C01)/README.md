@@ -32,4 +32,4 @@ Similar to Terraform
 
 #### RDS & ElasticCache
 ### DynamoDB
- 
+### API Gateway 
