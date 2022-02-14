@@ -39,4 +39,9 @@ Similar to Terraform
 ### DynamoDB
 ### API Gateway
 #### Serverless Application Model(SAM)
-#### AWS Application Integration 
+#### AWS Application Integration
+#### Monitoring, Logging, and Auditing
+- CloudWatch
+- CloudTrail
+- X-Ray
+#### AWS Security Services 
