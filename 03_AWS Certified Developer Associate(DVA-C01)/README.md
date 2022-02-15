@@ -1,12 +1,11 @@
 # AWS Certified Developer Associate
+[My Certification]()
+
 ## Video reference
 https://www.youtube.com/watch?v=RrKRN9zRBWs&t=4083s&ab_channel=freeCodeCamp.org
 
 ## Code
 https://github.com/ExamProCo/TheFreeAWSDeveloperAssociate
-
-## Free questions
-https://www.examtopics.com/exams/amazon/aws-certified-developer-associate/
 
 ### Ref notes
 https://rickhw.github.io/2016/08/20/AWS/AWS-Certified-Developer/
