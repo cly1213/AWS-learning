@@ -1,5 +1,5 @@
 # AWS Certified Developer Associate
-[My Certification]()
+[My Certification](https://www.credly.com/badges/8561ac12-b70c-4b55-a4d6-464d217a3b3f/public_url)
 
 ## Video reference
 https://www.youtube.com/watch?v=RrKRN9zRBWs&t=4083s&ab_channel=freeCodeCamp.org
