@@ -8,3 +8,5 @@ https://github.com/nealdct/aws-soa-code
 ### System Manager & OpsWorks
 ### Elastic Beanstalk
 ### CloudFormation
+### VPC
+

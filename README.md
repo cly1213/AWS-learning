@@ -1,3 +1,6 @@
+## AWS Cloud Quest: Cloud Practitioner
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner
+
 ## VPC
 ### Tools
 https://www.ipaddressguide.com/cidr
